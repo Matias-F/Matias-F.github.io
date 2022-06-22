@@ -109,6 +109,7 @@ html {
 }
 
 body {
+    display: flex;
 	font-family: var(--ff-primary-font);
 	background-color: #0f0f0f;
     color: #ffffff;
