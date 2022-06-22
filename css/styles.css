@@ -140,6 +140,7 @@ button {
     width: 100%;
     display: flex;
 	flex-direction: column;
+    background-color: #0f0f0f;
 }
 
 .frame--work,
