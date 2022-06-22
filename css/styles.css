@@ -108,13 +108,7 @@ html {
 	text-rendering: optimizeLegibility;
 }
 
-html, body {
-	/* height: 100%; */
-}
-
 body {
-	/* display: flex;
-	flex-direction: column; */
 	font-family: var(--ff-primary-font);
 	background-color: #0f0f0f;
     color: #ffffff;
