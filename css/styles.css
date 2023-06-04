@@ -207,7 +207,6 @@ img {
 
 .link-xl {
     text-decoration: none;
-    border-bottom: 5px solid var(--c-gray-700);
     color: var(--c-gray-700);
 }
 
@@ -264,7 +263,6 @@ img {
 }
 
 .nav__link:hover {
-    border-bottom: 1px solid #ffffff;
     color: #ffffff;
 }
 
@@ -346,7 +344,7 @@ img {
 }
 
 .footer__logo {
-    margin: 0 40px 0 0 ;
+    margin: -3px 40px 0 0 ;
     flex: 0 0 auto;
     font-size: var(--16px);
     line-height: var(--22px);
